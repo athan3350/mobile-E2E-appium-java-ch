@@ -1,4 +1,4 @@
-@challenge
+@runAll
 Feature: Enter to the EU cope web page
 
   ** As a ** EU cope user

@@ -100,11 +100,7 @@ The tags used during automation were the following
 | Tag Name               | Description                |  
 | ------------------ | -------------------------- |  
 | @runAll   |  Run all scenarios  |
-| @addExpensesByValue   |  Validate that new expenses can be added by value  |
-| @addExpensesByKeyBoard   |  Validate that new expenses can be added by keyBoard  |
-| @addIncomesByValue   |  Validate that new incomes can be added by value  |
-| @addIncomesByKeyBoard   |  Validate that new incomes can be added by keyBoard  |
-
+| @EUSuccess   |  Validate we can access to the EU web page  |
 
 ## **used technology stack**
 
