@@ -1,0 +1,9 @@
+target/*
+.gradle
+build
+.idea
+gradle
+gradlew
+gradlew.bat
+.scannerwork
+gradle
